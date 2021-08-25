@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="C:\Users\senne\eclipse-workspace\Forerunner55WatchFace\manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="3" lineNum="9" pc="268435456" symbol="initialize"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="3" lineNum="10" pc="268435460" symbol="initialize"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="4" lineNum="14" pc="268435479" symbol="onLayout"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="4" lineNum="15" pc="268435483" symbol="onLayout"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="5" lineNum="21" pc="268435521" symbol="onShow"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="6" lineNum="25" pc="268435526" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="6" lineNum="27" pc="268435530" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="6" lineNum="28" pc="268435537" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="6" lineNum="29" pc="268435554" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="6" lineNum="30" pc="268435564" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="6" lineNum="31" pc="268435589" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="6" lineNum="32" pc="268435600" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="6" lineNum="35" pc="268435616" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="6" lineNum="36" pc="268435644" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="6" lineNum="37" pc="268435651" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="6" lineNum="40" pc="268435672" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="6" lineNum="43" pc="268435737" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="6" lineNum="44" pc="268435761" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="6" lineNum="45" pc="268435798" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="6" lineNum="48" pc="268435812" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="7" lineNum="54" pc="268435833" symbol="onHide"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="8" lineNum="58" pc="268435838" symbol="onExitSleep"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="9" lineNum="62" pc="268435843" symbol="onEnterSleep"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="9" lineNum="7" pc="268436350" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceApp.mc" id="11" lineNum="7" pc="268435848" symbol="initialize"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceApp.mc" id="11" lineNum="8" pc="268435852" symbol="initialize"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceApp.mc" id="12" lineNum="12" pc="268435871" symbol="onStart"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceApp.mc" id="13" lineNum="16" pc="268435876" symbol="onStop"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceApp.mc" id="14" lineNum="20" pc="268435881" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceApp.mc" id="14" lineNum="21" pc="268435885" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceApp.mc" id="15" lineNum="25" pc="268435923" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceApp.mc" id="15" lineNum="26" pc="268435927" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceApp.mc" id="15" lineNum="5" pc="268436399" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceApp.mc" id="16" lineNum="31" pc="268435944" symbol="getApp"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceApp.mc" id="16" lineNum="32" pc="268435956" symbol="getApp"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceBackground.mc" id="18" lineNum="8" pc="268435973" symbol="initialize"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceBackground.mc" id="18" lineNum="9" pc="268435977" symbol="initialize"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceBackground.mc" id="18" lineNum="13" pc="268435998" symbol="initialize"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceBackground.mc" id="19" lineNum="16" pc="268436019" symbol="draw"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceBackground.mc" id="19" lineNum="18" pc="268436023" symbol="draw"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceBackground.mc" id="19" lineNum="19" pc="268436072" symbol="draw"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceBackground.mc" id="19" lineNum="6" pc="268436331" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="25" lineNum="17" pc="268436085" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="20" pc="268436097" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="21" pc="268436121" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="23" pc="268436302" symbol="WatchFace"/>
+        <entry filename="Rez" id="27" lineNum="1" pc="268436369" symbol="&lt;init&gt;"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="8389683" method="true" symbol="onSettingsChanged"/>
+        <entry field="true" id="16" symbol="ColorRed"/>
+        <entry field="true" id="20" symbol="MilitaryFormatTitle"/>
+        <entry id="9" object="true" symbol="Forerunner55WatchFaceView"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="15" symbol="ColorBlue"/>
+        <entry field="true" id="23" symbol="AppName"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="12" module="true" symbol="Menus"/>
+        <entry id="8389275" method="true" symbol="getApp"/>
+        <entry field="true" id="19" symbol="ColorDarkGray"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389376" method="true" symbol="onEnterSleep"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry field="true" id="22" symbol="ColorWhite"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry field="true" id="21" symbol="ColorBlack"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry id="8389068" method="true" symbol="draw"/>
+        <entry field="true" id="13" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry field="true" id="18" symbol="BackgroundColorTitle"/>
+        <entry id="10" object="true" symbol="Forerunner55WatchFaceApp"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8390146" module="true" object="true" symbol="Background"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="14" symbol="ColorLightGray"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8389347" symbol="color"/>
+        <entry field="true" id="17" symbol="ForegroundColorTitle"/>
+        <entry id="11" module="true" symbol="Layouts"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435520" name="dc" stackId="1" startPc="268435479"/>
+        <entry endPc="268435831" name="view" stackId="6" startPc="268435530"/>
+        <entry endPc="268435831" name="hours" stackId="4" startPc="268435530"/>
+        <entry endPc="268435831" name="timeString" stackId="5" startPc="268435530"/>
+        <entry endPc="268435831" name="clockTime" stackId="3" startPc="268435530"/>
+        <entry endPc="268435831" name="timeFormat" stackId="2" startPc="268435530"/>
+        <entry arg="true" endPc="268435832" name="dc" stackId="1" startPc="268435526"/>
+        <entry arg="true" endPc="268435875" name="state" stackId="1" startPc="268435871"/>
+        <entry arg="true" endPc="268435880" name="state" stackId="1" startPc="268435876"/>
+        <entry endPc="268436017" name="dictionary" stackId="1" startPc="268435977"/>
+        <entry arg="true" endPc="268436084" name="dc" stackId="1" startPc="268436019"/>
+        <entry endPc="268436328" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268436097"/>
+        <entry endPc="268436328" name="rez_cmp_local_custom_drawable_19808442171706815167" stackId="2" startPc="268436097"/>
+        <entry arg="true" endPc="268436329" name="dc" stackId="1" startPc="268436085"/>
+    </localVars>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorLightGray"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorBlue"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorRed"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ForegroundColorTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BackgroundColorTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorDarkGray"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MilitaryFormatTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorBlack"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorWhite"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/Background" offset="166" parentId="globals" symbolId="Background" type="class"/>
+        <dataEntry label="globals/Forerunner55WatchFaceView" offset="221" parentId="globals" symbolId="Forerunner55WatchFaceView" type="class"/>
+        <dataEntry label="globals/Rez" offset="316" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="395" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="434" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="465" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="496" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="535" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="566" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/Forerunner55WatchFaceApp" offset="677" parentId="globals" symbolId="Forerunner55WatchFaceApp" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="Forerunner55WatchFaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="Forerunner55WatchFaceView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="Forerunner55WatchFaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="Forerunner55WatchFaceView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="Forerunner55WatchFaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onExitSleep" parent="Forerunner55WatchFaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onEnterSleep" parent="Forerunner55WatchFaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="Forerunner55WatchFaceApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="Forerunner55WatchFaceApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="Forerunner55WatchFaceApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="Forerunner55WatchFaceApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSettingsChanged" parent="Forerunner55WatchFaceApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="Background">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="Background">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
