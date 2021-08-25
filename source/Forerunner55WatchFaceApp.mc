@@ -23,6 +23,10 @@ class Forerunner55WatchFaceApp extends Application.AppBase {
 
     // New app settings have been received so trigger a UI update
     function onSettingsChanged() as Void {
+    	
+    	TimeText.setSettings();
+    	SecondsRing.setSettings();
+    	
         WatchUi.requestUpdate();
     }
 
