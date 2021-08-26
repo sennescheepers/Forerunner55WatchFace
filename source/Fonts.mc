@@ -7,8 +7,5 @@ module Fonts {
 
 	var bigFilledFont = WatchUi.loadResource(Rez.Fonts.big_filled_font);
 	var bigOutlineFont = WatchUi.loadResource(Rez.Fonts.big_outline_font);
-	var smallFilledFont = WatchUi.loadResource(Rez.Fonts.small_filled_font);
-	var accentFont = WatchUi.loadResource(Rez.Fonts.accent_font);
-	var complicationFont = WatchUi.loadResource(Rez.Fonts.complication_font);
 	
 }

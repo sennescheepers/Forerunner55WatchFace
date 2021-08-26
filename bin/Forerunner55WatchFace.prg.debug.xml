@@ -51,7 +51,7 @@
         <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="11" lineNum="53" pc="268436637" symbol="onExitSleep"/>
         <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="12" lineNum="57" pc="268436654" symbol="onEnterSleep"/>
         <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="12" lineNum="58" pc="268436658" symbol="onEnterSleep"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="12" lineNum="7" pc="268437518" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="12" lineNum="7" pc="268437536" symbol="&lt;init&gt;"/>
         <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceApp.mc" id="14" lineNum="7" pc="268436675" symbol="initialize"/>
         <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceApp.mc" id="14" lineNum="8" pc="268436679" symbol="initialize"/>
         <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceApp.mc" id="15" lineNum="12" pc="268436698" symbol="onStart"/>
@@ -62,14 +62,11 @@
         <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceApp.mc" id="18" lineNum="27" pc="268436754" symbol="onSettingsChanged"/>
         <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceApp.mc" id="18" lineNum="28" pc="268436772" symbol="onSettingsChanged"/>
         <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceApp.mc" id="18" lineNum="30" pc="268436790" symbol="onSettingsChanged"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceApp.mc" id="18" lineNum="5" pc="268437784" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceApp.mc" id="18" lineNum="5" pc="268437673" symbol="&lt;init&gt;"/>
         <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceApp.mc" id="19" lineNum="35" pc="268436807" symbol="getApp"/>
         <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceApp.mc" id="19" lineNum="36" pc="268436819" symbol="getApp"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Fonts.mc" id="20" lineNum="8" pc="268437567" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Fonts.mc" id="20" lineNum="9" pc="268437610" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Fonts.mc" id="20" lineNum="10" pc="268437653" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Fonts.mc" id="20" lineNum="11" pc="268437696" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Fonts.mc" id="20" lineNum="12" pc="268437739" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Fonts.mc" id="20" lineNum="8" pc="268437585" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Fonts.mc" id="20" lineNum="9" pc="268437628" symbol="&lt;init&gt;"/>
         <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\SecondsRing.mc" id="22" lineNum="16" pc="268436836" symbol="drawSeconds"/>
         <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\SecondsRing.mc" id="22" lineNum="18" pc="268436848" symbol="drawSeconds"/>
         <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\SecondsRing.mc" id="22" lineNum="19" pc="268436867" symbol="drawSeconds"/>
@@ -89,50 +86,46 @@
         <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceBackground.mc" id="26" lineNum="16" pc="268437204" symbol="draw"/>
         <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceBackground.mc" id="26" lineNum="18" pc="268437208" symbol="draw"/>
         <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceBackground.mc" id="26" lineNum="19" pc="268437257" symbol="draw"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceBackground.mc" id="26" lineNum="6" pc="268437498" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="32" lineNum="23" pc="268437270" symbol="WatchFace"/>
-        <entry filename="Rez" id="32" lineNum="25" pc="268437282" symbol="WatchFace"/>
-        <entry filename="Rez" id="32" lineNum="26" pc="268437306" symbol="WatchFace"/>
-        <entry filename="Rez" id="32" lineNum="28" pc="268437469" symbol="WatchFace"/>
-        <entry filename="Rez" id="34" lineNum="1" pc="268437537" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceBackground.mc" id="26" lineNum="6" pc="268437516" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="32" lineNum="20" pc="268437270" symbol="WatchFace"/>
+        <entry filename="Rez" id="32" lineNum="23" pc="268437282" symbol="WatchFace"/>
+        <entry filename="Rez" id="32" lineNum="24" pc="268437306" symbol="WatchFace"/>
+        <entry filename="Rez" id="32" lineNum="26" pc="268437487" symbol="WatchFace"/>
+        <entry filename="Rez" id="34" lineNum="1" pc="268437555" symbol="&lt;init&gt;"/>
     </pcToLineNum>
     <symbolTable>
         <entry field="true" id="18" symbol="textWidthMinutes"/>
-        <entry field="true" id="58" symbol="complicationFont"/>
         <entry id="8388639" module="true" symbol="Graphics"/>
-        <entry field="true" id="35" symbol="Use12HourTitle"/>
-        <entry field="true" id="56" symbol="smallFilledFont"/>
+        <entry field="true" id="32" symbol="Use12HourTitle"/>
         <entry id="12" module="true" symbol="TimeText"/>
-        <entry field="true" id="60" symbol="lowPower"/>
+        <entry field="true" id="54" symbol="lowPower"/>
         <entry field="true" id="16" symbol="use12Hour"/>
         <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
-        <entry field="true" id="33" symbol="complication_font"/>
-        <entry field="true" id="47" symbol="ColorPurple"/>
+        <entry field="true" id="44" symbol="ColorPurple"/>
         <entry id="5" module="true" symbol="globals/Rez/Menus"/>
-        <entry field="true" id="50" symbol="ColorGreen"/>
+        <entry field="true" id="47" symbol="ColorGreen"/>
         <entry id="8389683" method="true" symbol="onSettingsChanged"/>
-        <entry field="true" id="42" symbol="ColorYellow"/>
-        <entry field="true" id="45" symbol="ColorRed"/>
+        <entry field="true" id="39" symbol="ColorYellow"/>
+        <entry field="true" id="42" symbol="ColorRed"/>
         <entry id="2" module="true" symbol="globals/TimeText"/>
-        <entry id="61" method="true" symbol="drawSeconds"/>
+        <entry id="55" method="true" symbol="drawSeconds"/>
         <entry id="8388924" module="true" symbol="Gregorian"/>
         <entry id="13" object="true" symbol="Forerunner55WatchFaceView"/>
-        <entry field="true" id="32" symbol="accent_font"/>
         <entry field="true" id="8388611" module="true" symbol="Toybox"/>
         <entry field="true" id="30" symbol="big_outline_font"/>
         <entry id="24" method="true" symbol="drawTime"/>
-        <entry field="true" id="43" symbol="AppName"/>
+        <entry field="true" id="40" symbol="AppName"/>
         <entry id="8388633" module="true" symbol="ActivityMonitor"/>
         <entry id="15" module="true" symbol="SecondsRing"/>
         <entry field="true" id="29" symbol="big_filled_font"/>
         <entry id="9" module="true" symbol="globals/Rez/Strings"/>
         <entry id="8388772" module="true" object="true" symbol="Fonts"/>
-        <entry field="true" id="55" symbol="bigOutlineFont"/>
+        <entry field="true" id="52" symbol="bigOutlineFont"/>
         <entry id="10" module="true" symbol="globals/Fonts"/>
         <entry id="8388648" module="true" symbol="WatchUi"/>
         <entry id="3" module="true" symbol="globals/Rez"/>
         <entry field="true" id="17" symbol="textWidthHour"/>
-        <entry field="true" id="39" symbol="MinutesColorTitle"/>
+        <entry field="true" id="36" symbol="MinutesColorTitle"/>
         <entry id="8389124" method="true" symbol="onUpdate"/>
         <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
         <entry field="true" id="8389065" symbol="locY"/>
@@ -141,33 +134,31 @@
         <entry id="8389348" symbol="font"/>
         <entry id="27" module="true" symbol="Menus"/>
         <entry id="8389275" method="true" symbol="getApp"/>
-        <entry field="true" id="36" symbol="ColorDarkGray"/>
+        <entry field="true" id="33" symbol="ColorDarkGray"/>
         <entry id="7" module="true" symbol="globals/Rez/Layouts"/>
         <entry id="8389122" method="true" symbol="onLayout"/>
-        <entry field="true" id="53" symbol="DisplaySecondsTitle"/>
+        <entry field="true" id="50" symbol="DisplaySecondsTitle"/>
         <entry id="8389376" method="true" symbol="onEnterSleep"/>
         <entry field="true" id="8389063" symbol="identifier"/>
         <entry field="true" id="19" symbol="textHeight"/>
-        <entry field="true" id="57" symbol="accentFont"/>
         <entry id="8389349" symbol="justification"/>
-        <entry field="true" id="48" symbol="ColorWhite"/>
-        <entry field="true" id="37" symbol="ColorDarkBlue"/>
+        <entry field="true" id="45" symbol="ColorWhite"/>
+        <entry field="true" id="34" symbol="ColorDarkBlue"/>
         <entry id="8" module="true" symbol="globals/Rez/JsonData"/>
-        <entry field="true" id="41" symbol="ColorBlack"/>
+        <entry field="true" id="38" symbol="ColorBlack"/>
         <entry id="4" module="true" symbol="globals/Rez/Drawables"/>
         <entry id="8389377" method="true" symbol="onExitSleep"/>
         <entry id="8388644" module="true" symbol="System"/>
         <entry id="8388645" module="true" symbol="Time"/>
         <entry id="8388769" module="true" object="true" symbol="Rez"/>
-        <entry field="true" id="52" symbol="AccentColorTitle"/>
+        <entry field="true" id="49" symbol="AccentColorTitle"/>
         <entry id="8388640" module="true" symbol="Lang"/>
         <entry id="8390088" module="true" object="true" symbol="JsonData"/>
         <entry id="8389068" method="true" symbol="draw"/>
         <entry field="true" id="28" symbol="LauncherIcon"/>
         <entry id="8388610" symbol="statics"/>
         <entry id="8389123" method="true" symbol="onShow"/>
-        <entry field="true" id="31" symbol="small_filled_font"/>
-        <entry field="true" id="54" symbol="bigFilledFont"/>
+        <entry field="true" id="51" symbol="bigFilledFont"/>
         <entry id="25" method="true" symbol="setSettings"/>
         <entry id="8389350" module="true" symbol="globals"/>
         <entry id="14" object="true" symbol="Forerunner55WatchFaceApp"/>
@@ -175,26 +166,26 @@
         <entry id="8390146" module="true" object="true" symbol="Background"/>
         <entry id="8388702" method="true" symbol="initialize"/>
         <entry id="8389279" method="true" symbol="onStart"/>
-        <entry field="true" id="44" symbol="HourColorTitle"/>
+        <entry field="true" id="41" symbol="HourColorTitle"/>
         <entry id="11" module="true" symbol="globals/SecondsRing"/>
         <entry id="8388641" module="true" symbol="Math"/>
-        <entry field="true" id="34" symbol="ColorLightGray"/>
+        <entry field="true" id="31" symbol="ColorLightGray"/>
         <entry id="8389280" method="true" symbol="getInitialView"/>
         <entry id="8389281" method="true" symbol="onStop"/>
         <entry id="8389347" symbol="color"/>
-        <entry field="true" id="46" symbol="ColorPink"/>
+        <entry field="true" id="43" symbol="ColorPink"/>
         <entry field="true" id="20" symbol="hourColor"/>
         <entry field="true" id="21" symbol="minutesColor"/>
-        <entry field="true" id="59" symbol="displaySeconds"/>
-        <entry field="true" id="40" symbol="ImperialTitle"/>
+        <entry field="true" id="53" symbol="displaySeconds"/>
+        <entry field="true" id="37" symbol="ImperialTitle"/>
         <entry field="true" id="22" symbol="hourFilled"/>
         <entry field="true" id="23" symbol="minutesFilled"/>
         <entry id="26" module="true" symbol="Layouts"/>
-        <entry field="true" id="49" symbol="HourFilledTitle"/>
-        <entry field="true" id="51" symbol="ColorLightBlue"/>
+        <entry field="true" id="46" symbol="HourFilledTitle"/>
+        <entry field="true" id="48" symbol="ColorLightBlue"/>
         <entry id="6" module="true" symbol="globals/Rez/Fonts"/>
         <entry id="8389125" method="true" symbol="onHide"/>
-        <entry field="true" id="38" symbol="MinutesFilledTitle"/>
+        <entry field="true" id="35" symbol="MinutesFilledTitle"/>
         <entry id="8388635" module="true" symbol="Application"/>
     </symbolTable>
     <localVars>
@@ -219,17 +210,14 @@
         <entry arg="true" endPc="268437107" name="dc" stackId="1" startPc="268436836"/>
         <entry endPc="268437202" name="dictionary" stackId="1" startPc="268437162"/>
         <entry arg="true" endPc="268437269" name="dc" stackId="1" startPc="268437204"/>
-        <entry endPc="268437495" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268437282"/>
-        <entry endPc="268437495" name="rez_cmp_local_custom_drawable_59111911861432506520" stackId="2" startPc="268437282"/>
-        <entry arg="true" endPc="268437496" name="dc" stackId="1" startPc="268437270"/>
+        <entry endPc="268437513" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268437282"/>
+        <entry endPc="268437513" name="rez_cmp_local_custom_drawable_11524048091009022284" stackId="2" startPc="268437282"/>
+        <entry arg="true" endPc="268437514" name="dc" stackId="1" startPc="268437270"/>
     </localVars>
     <annotations>
         <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
         <annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="big_filled_font"/>
         <annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="big_outline_font"/>
-        <annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="small_filled_font"/>
-        <annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="accent_font"/>
-        <annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="complication_font"/>
         <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorLightGray"/>
         <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="Use12HourTitle"/>
         <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorDarkGray"/>
@@ -260,12 +248,12 @@
         <dataEntry label="globals/Rez/Drawables" offset="554" parentId="Rez" symbolId="Drawables" type="module"/>
         <dataEntry label="globals/Rez/Menus" offset="593" parentId="Rez" symbolId="Menus" type="module"/>
         <dataEntry label="globals/Rez/Fonts" offset="624" parentId="Rez" symbolId="Fonts" type="module"/>
-        <dataEntry label="globals/Rez/Layouts" offset="695" parentId="Rez" symbolId="Layouts" type="module"/>
-        <dataEntry label="globals/Rez/JsonData" offset="734" parentId="Rez" symbolId="JsonData" type="module"/>
-        <dataEntry label="globals/Rez/Strings" offset="765" parentId="Rez" symbolId="Strings" type="module"/>
-        <dataEntry label="globals/Fonts" offset="956" parentId="globals" symbolId="Fonts" type="module"/>
-        <dataEntry label="globals/SecondsRing" offset="1027" parentId="globals" symbolId="SecondsRing" type="module"/>
-        <dataEntry label="globals/Forerunner55WatchFaceApp" offset="1090" parentId="globals" symbolId="Forerunner55WatchFaceApp" type="class"/>
+        <dataEntry label="globals/Rez/Layouts" offset="671" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="710" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="741" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/Fonts" offset="932" parentId="globals" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/SecondsRing" offset="979" parentId="globals" symbolId="SecondsRing" type="module"/>
+        <dataEntry label="globals/Forerunner55WatchFaceApp" offset="1042" parentId="globals" symbolId="Forerunner55WatchFaceApp" type="class"/>
     </dataEntryOffsetMappings>
     <functions>
         <functionEntry accessMode="public" name="drawTime" parent="TimeText">
