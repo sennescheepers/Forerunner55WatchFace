@@ -39,6 +39,9 @@ class Forerunner55WatchFaceView extends WatchUi.WatchFace {
         
         // Draw seconds ring
         SecondsRing.drawSeconds(dc);
+        
+        // Draw date
+        DateText.drawDate(dc);
     }
 
     // Called when this View is removed from the screen. Save the

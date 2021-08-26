@@ -25,7 +25,8 @@ module SecondsRing {
 		
 		if (displaySeconds && !lowPower && (angle != 450 || angle != 90)) {
 			dc.setColor(dc.COLOR_WHITE, dc.COLOR_BLACK);
-			dc.setPenWidth(2);
+			// Was 2 in 0.0.3
+			dc.setPenWidth(3);
 			dc.drawArc(centerX, centerY, radius - 1, dc.ARC_CLOCKWISE, 90, angle);
 		}		
 

@@ -2,217 +2,237 @@
 <debugInfo>
     <manifest filename="C:\Users\senne\eclipse-workspace\Forerunner55WatchFace\manifest.xml"/>
     <pcToLineNum>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="3" lineNum="25" pc="268435456" symbol="drawTime"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="3" lineNum="27" pc="268435468" symbol="drawTime"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="3" lineNum="28" pc="268435512" symbol="drawTime"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="3" lineNum="29" pc="268435512" symbol="drawTime"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="3" lineNum="30" pc="268435551" symbol="drawTime"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="3" lineNum="32" pc="268435578" symbol="drawTime"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="3" lineNum="33" pc="268435622" symbol="drawTime"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="3" lineNum="35" pc="268435640" symbol="drawTime"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="3" lineNum="38" pc="268435664" symbol="drawTime"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="3" lineNum="39" pc="268435699" symbol="drawTime"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="3" lineNum="41" pc="268435734" symbol="drawTime"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="3" lineNum="44" pc="268435767" symbol="drawTime"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="3" lineNum="45" pc="268435795" symbol="drawTime"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="3" lineNum="46" pc="268435829" symbol="drawTime"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="3" lineNum="47" pc="268435857" symbol="drawTime"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="3" lineNum="50" pc="268435882" symbol="drawTime"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="3" lineNum="51" pc="268435893" symbol="drawTime"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="3" lineNum="52" pc="268435925" symbol="drawTime"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="3" lineNum="54" pc="268435972" symbol="drawTime"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="3" lineNum="55" pc="268436004" symbol="drawTime"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="3" lineNum="57" pc="268436048" symbol="drawTime"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="3" lineNum="58" pc="268436059" symbol="drawTime"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="3" lineNum="59" pc="268436091" symbol="drawTime"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="3" lineNum="61" pc="268436138" symbol="drawTime"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="3" lineNum="62" pc="268436170" symbol="drawTime"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="4" lineNum="68" pc="268436215" symbol="setSettings"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="4" lineNum="70" pc="268436227" symbol="setSettings"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="4" lineNum="71" pc="268436264" symbol="setSettings"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="4" lineNum="72" pc="268436301" symbol="setSettings"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="4" lineNum="73" pc="268436338" symbol="setSettings"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="4" lineNum="74" pc="268436375" symbol="setSettings"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="6" lineNum="9" pc="268436413" symbol="initialize"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="6" lineNum="10" pc="268436417" symbol="initialize"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="6" lineNum="13" pc="268436435" symbol="initialize"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="6" lineNum="14" pc="268436453" symbol="initialize"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="7" lineNum="19" pc="268436472" symbol="onLayout"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="7" lineNum="20" pc="268436476" symbol="onLayout"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="8" lineNum="26" pc="268436514" symbol="onShow"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="9" lineNum="30" pc="268436519" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="9" lineNum="34" pc="268436523" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="9" lineNum="35" pc="268436559" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="9" lineNum="38" pc="268436571" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="9" lineNum="41" pc="268436591" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="10" lineNum="47" pc="268436612" symbol="onHide"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="11" lineNum="51" pc="268436617" symbol="onExitSleep"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="11" lineNum="52" pc="268436621" symbol="onExitSleep"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="11" lineNum="53" pc="268436637" symbol="onExitSleep"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="12" lineNum="57" pc="268436654" symbol="onEnterSleep"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="12" lineNum="58" pc="268436658" symbol="onEnterSleep"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="12" lineNum="7" pc="268437536" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceApp.mc" id="14" lineNum="7" pc="268436675" symbol="initialize"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceApp.mc" id="14" lineNum="8" pc="268436679" symbol="initialize"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceApp.mc" id="15" lineNum="12" pc="268436698" symbol="onStart"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceApp.mc" id="16" lineNum="16" pc="268436703" symbol="onStop"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceApp.mc" id="17" lineNum="20" pc="268436708" symbol="getInitialView"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceApp.mc" id="17" lineNum="21" pc="268436712" symbol="getInitialView"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceApp.mc" id="18" lineNum="25" pc="268436750" symbol="onSettingsChanged"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceApp.mc" id="18" lineNum="27" pc="268436754" symbol="onSettingsChanged"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceApp.mc" id="18" lineNum="28" pc="268436772" symbol="onSettingsChanged"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceApp.mc" id="18" lineNum="30" pc="268436790" symbol="onSettingsChanged"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceApp.mc" id="18" lineNum="5" pc="268437673" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceApp.mc" id="19" lineNum="35" pc="268436807" symbol="getApp"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceApp.mc" id="19" lineNum="36" pc="268436819" symbol="getApp"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Fonts.mc" id="20" lineNum="8" pc="268437585" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Fonts.mc" id="20" lineNum="9" pc="268437628" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\SecondsRing.mc" id="22" lineNum="16" pc="268436836" symbol="drawSeconds"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\SecondsRing.mc" id="22" lineNum="18" pc="268436848" symbol="drawSeconds"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\SecondsRing.mc" id="22" lineNum="19" pc="268436867" symbol="drawSeconds"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\SecondsRing.mc" id="22" lineNum="20" pc="268436871" symbol="drawSeconds"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\SecondsRing.mc" id="22" lineNum="22" pc="268436881" symbol="drawSeconds"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\SecondsRing.mc" id="22" lineNum="23" pc="268436925" symbol="drawSeconds"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\SecondsRing.mc" id="22" lineNum="24" pc="268436935" symbol="drawSeconds"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\SecondsRing.mc" id="22" lineNum="26" pc="268436966" symbol="drawSeconds"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\SecondsRing.mc" id="22" lineNum="27" pc="268437020" symbol="drawSeconds"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\SecondsRing.mc" id="22" lineNum="28" pc="268437048" symbol="drawSeconds"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\SecondsRing.mc" id="22" lineNum="29" pc="268437065" symbol="drawSeconds"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\SecondsRing.mc" id="23" lineNum="34" pc="268437108" symbol="setSettings"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\SecondsRing.mc" id="23" lineNum="36" pc="268437120" symbol="setSettings"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceBackground.mc" id="25" lineNum="8" pc="268437158" symbol="initialize"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceBackground.mc" id="25" lineNum="9" pc="268437162" symbol="initialize"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceBackground.mc" id="25" lineNum="13" pc="268437183" symbol="initialize"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceBackground.mc" id="26" lineNum="16" pc="268437204" symbol="draw"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceBackground.mc" id="26" lineNum="18" pc="268437208" symbol="draw"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceBackground.mc" id="26" lineNum="19" pc="268437257" symbol="draw"/>
-        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceBackground.mc" id="26" lineNum="6" pc="268437516" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="32" lineNum="20" pc="268437270" symbol="WatchFace"/>
-        <entry filename="Rez" id="32" lineNum="23" pc="268437282" symbol="WatchFace"/>
-        <entry filename="Rez" id="32" lineNum="24" pc="268437306" symbol="WatchFace"/>
-        <entry filename="Rez" id="32" lineNum="26" pc="268437487" symbol="WatchFace"/>
-        <entry filename="Rez" id="34" lineNum="1" pc="268437555" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="3" lineNum="34" pc="268435456" symbol="drawTime"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="3" lineNum="36" pc="268435468" symbol="drawTime"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="3" lineNum="37" pc="268435518" symbol="drawTime"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="3" lineNum="38" pc="268435527" symbol="drawTime"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="3" lineNum="39" pc="268435566" symbol="drawTime"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="3" lineNum="41" pc="268435605" symbol="drawTime"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="3" lineNum="42" pc="268435673" symbol="drawTime"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="3" lineNum="44" pc="268435703" symbol="drawTime"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="3" lineNum="47" pc="268435739" symbol="drawTime"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="3" lineNum="48" pc="268435780" symbol="drawTime"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="3" lineNum="50" pc="268435821" symbol="drawTime"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="3" lineNum="53" pc="268435854" symbol="drawTime"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="3" lineNum="54" pc="268435888" symbol="drawTime"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="3" lineNum="55" pc="268435928" symbol="drawTime"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="3" lineNum="56" pc="268435962" symbol="drawTime"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="3" lineNum="59" pc="268435993" symbol="drawTime"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="3" lineNum="60" pc="268436004" symbol="drawTime"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="3" lineNum="61" pc="268436036" symbol="drawTime"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="3" lineNum="63" pc="268436101" symbol="drawTime"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="3" lineNum="64" pc="268436133" symbol="drawTime"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="3" lineNum="66" pc="268436195" symbol="drawTime"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="3" lineNum="67" pc="268436206" symbol="drawTime"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="3" lineNum="68" pc="268436238" symbol="drawTime"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="3" lineNum="70" pc="268436303" symbol="drawTime"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="3" lineNum="71" pc="268436335" symbol="drawTime"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="4" lineNum="77" pc="268436398" symbol="setSettings"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="4" lineNum="79" pc="268436410" symbol="setSettings"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="4" lineNum="80" pc="268436447" symbol="setSettings"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="4" lineNum="81" pc="268436484" symbol="setSettings"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="4" lineNum="82" pc="268436521" symbol="setSettings"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\TimeText.mc" id="4" lineNum="83" pc="268436558" symbol="setSettings"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="6" lineNum="9" pc="268436596" symbol="initialize"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="6" lineNum="10" pc="268436600" symbol="initialize"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="6" lineNum="13" pc="268436618" symbol="initialize"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="6" lineNum="14" pc="268436636" symbol="initialize"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="7" lineNum="19" pc="268436655" symbol="onLayout"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="7" lineNum="20" pc="268436659" symbol="onLayout"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="8" lineNum="26" pc="268436697" symbol="onShow"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="9" lineNum="30" pc="268436702" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="9" lineNum="34" pc="268436706" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="9" lineNum="35" pc="268436742" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="9" lineNum="38" pc="268436754" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="9" lineNum="41" pc="268436774" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="9" lineNum="44" pc="268436794" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="10" lineNum="50" pc="268436815" symbol="onHide"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="11" lineNum="54" pc="268436820" symbol="onExitSleep"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="11" lineNum="55" pc="268436824" symbol="onExitSleep"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="11" lineNum="56" pc="268436840" symbol="onExitSleep"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="12" lineNum="60" pc="268436857" symbol="onEnterSleep"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="12" lineNum="61" pc="268436861" symbol="onEnterSleep"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceView.mc" id="12" lineNum="7" pc="268438142" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\DateText.mc" id="14" lineNum="24" pc="268436878" symbol="drawDate"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\DateText.mc" id="14" lineNum="26" pc="268436890" symbol="drawDate"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\DateText.mc" id="14" lineNum="28" pc="268436940" symbol="drawDate"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\DateText.mc" id="14" lineNum="29" pc="268436962" symbol="drawDate"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\DateText.mc" id="14" lineNum="31" pc="268436996" symbol="drawDate"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\DateText.mc" id="14" lineNum="32" pc="268437029" symbol="drawDate"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\DateText.mc" id="14" lineNum="33" pc="268437064" symbol="drawDate"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\DateText.mc" id="14" lineNum="35" pc="268437125" symbol="drawDate"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\DateText.mc" id="14" lineNum="36" pc="268437174" symbol="drawDate"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\DateText.mc" id="14" lineNum="38" pc="268437214" symbol="drawDate"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\DateText.mc" id="14" lineNum="39" pc="268437242" symbol="drawDate"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceApp.mc" id="16" lineNum="7" pc="268437299" symbol="initialize"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceApp.mc" id="16" lineNum="8" pc="268437303" symbol="initialize"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceApp.mc" id="17" lineNum="12" pc="268437322" symbol="onStart"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceApp.mc" id="18" lineNum="16" pc="268437327" symbol="onStop"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceApp.mc" id="19" lineNum="20" pc="268437332" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceApp.mc" id="19" lineNum="21" pc="268437336" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceApp.mc" id="20" lineNum="25" pc="268437374" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceApp.mc" id="20" lineNum="27" pc="268437378" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceApp.mc" id="20" lineNum="28" pc="268437396" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceApp.mc" id="20" lineNum="30" pc="268437414" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceApp.mc" id="20" lineNum="5" pc="268438279" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceApp.mc" id="21" lineNum="35" pc="268437431" symbol="getApp"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceApp.mc" id="21" lineNum="36" pc="268437443" symbol="getApp"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Fonts.mc" id="22" lineNum="8" pc="268438191" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Fonts.mc" id="22" lineNum="9" pc="268438234" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\SecondsRing.mc" id="24" lineNum="16" pc="268437460" symbol="drawSeconds"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\SecondsRing.mc" id="24" lineNum="18" pc="268437472" symbol="drawSeconds"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\SecondsRing.mc" id="24" lineNum="19" pc="268437491" symbol="drawSeconds"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\SecondsRing.mc" id="24" lineNum="20" pc="268437495" symbol="drawSeconds"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\SecondsRing.mc" id="24" lineNum="22" pc="268437505" symbol="drawSeconds"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\SecondsRing.mc" id="24" lineNum="23" pc="268437549" symbol="drawSeconds"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\SecondsRing.mc" id="24" lineNum="24" pc="268437559" symbol="drawSeconds"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\SecondsRing.mc" id="24" lineNum="26" pc="268437590" symbol="drawSeconds"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\SecondsRing.mc" id="24" lineNum="27" pc="268437644" symbol="drawSeconds"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\SecondsRing.mc" id="24" lineNum="29" pc="268437672" symbol="drawSeconds"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\SecondsRing.mc" id="24" lineNum="30" pc="268437689" symbol="drawSeconds"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\SecondsRing.mc" id="25" lineNum="35" pc="268437732" symbol="setSettings"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\SecondsRing.mc" id="25" lineNum="37" pc="268437744" symbol="setSettings"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceBackground.mc" id="27" lineNum="8" pc="268437782" symbol="initialize"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceBackground.mc" id="27" lineNum="9" pc="268437786" symbol="initialize"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceBackground.mc" id="27" lineNum="13" pc="268437807" symbol="initialize"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceBackground.mc" id="28" lineNum="16" pc="268437828" symbol="draw"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceBackground.mc" id="28" lineNum="18" pc="268437832" symbol="draw"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceBackground.mc" id="28" lineNum="19" pc="268437881" symbol="draw"/>
+        <entry filename="C:\\Users\\senne\\eclipse-workspace\\Forerunner55WatchFace\\source\\Forerunner55WatchFaceBackground.mc" id="28" lineNum="6" pc="268438122" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="34" lineNum="20" pc="268437894" symbol="WatchFace"/>
+        <entry filename="Rez" id="34" lineNum="22" pc="268437906" symbol="WatchFace"/>
+        <entry filename="Rez" id="34" lineNum="23" pc="268437930" symbol="WatchFace"/>
+        <entry filename="Rez" id="34" lineNum="25" pc="268438093" symbol="WatchFace"/>
+        <entry filename="Rez" id="36" lineNum="1" pc="268438161" symbol="&lt;init&gt;"/>
     </pcToLineNum>
     <symbolTable>
-        <entry field="true" id="18" symbol="textWidthMinutes"/>
+        <entry field="true" id="20" symbol="textWidthMinutes"/>
         <entry id="8388639" module="true" symbol="Graphics"/>
-        <entry field="true" id="32" symbol="Use12HourTitle"/>
-        <entry id="12" module="true" symbol="TimeText"/>
-        <entry field="true" id="54" symbol="lowPower"/>
-        <entry field="true" id="16" symbol="use12Hour"/>
+        <entry field="true" id="40" symbol="Use12HourTitle"/>
+        <entry id="13" module="true" symbol="TimeText"/>
+        <entry field="true" id="62" symbol="lowPower"/>
+        <entry field="true" id="18" symbol="use12Hour"/>
         <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
-        <entry field="true" id="44" symbol="ColorPurple"/>
+        <entry id="68" method="true" symbol="drawDate"/>
+        <entry field="true" id="52" symbol="ColorPurple"/>
+        <entry field="true" id="31" symbol="minutesLocY"/>
+        <entry field="true" id="30" symbol="minutesLocX"/>
         <entry id="5" module="true" symbol="globals/Rez/Menus"/>
-        <entry field="true" id="47" symbol="ColorGreen"/>
+        <entry field="true" id="55" symbol="ColorGreen"/>
         <entry id="8389683" method="true" symbol="onSettingsChanged"/>
-        <entry field="true" id="39" symbol="ColorYellow"/>
-        <entry field="true" id="42" symbol="ColorRed"/>
+        <entry field="true" id="47" symbol="ColorYellow"/>
+        <entry field="true" id="50" symbol="ColorRed"/>
         <entry id="2" module="true" symbol="globals/TimeText"/>
-        <entry id="55" method="true" symbol="drawSeconds"/>
+        <entry field="true" id="67" symbol="textHeightHour"/>
+        <entry id="63" method="true" symbol="drawSeconds"/>
+        <entry field="true" id="65" symbol="dateString"/>
         <entry id="8388924" module="true" symbol="Gregorian"/>
-        <entry id="13" object="true" symbol="Forerunner55WatchFaceView"/>
+        <entry id="15" module="true" symbol="DateText"/>
+        <entry id="14" object="true" symbol="Forerunner55WatchFaceView"/>
         <entry field="true" id="8388611" module="true" symbol="Toybox"/>
-        <entry field="true" id="30" symbol="big_outline_font"/>
-        <entry id="24" method="true" symbol="drawTime"/>
-        <entry field="true" id="40" symbol="AppName"/>
+        <entry field="true" id="38" symbol="big_outline_font"/>
+        <entry id="32" method="true" symbol="drawTime"/>
+        <entry field="true" id="48" symbol="AppName"/>
         <entry id="8388633" module="true" symbol="ActivityMonitor"/>
-        <entry id="15" module="true" symbol="SecondsRing"/>
-        <entry field="true" id="29" symbol="big_filled_font"/>
+        <entry id="17" module="true" symbol="SecondsRing"/>
+        <entry field="true" id="64" symbol="date"/>
+        <entry field="true" id="37" symbol="big_filled_font"/>
         <entry id="9" module="true" symbol="globals/Rez/Strings"/>
         <entry id="8388772" module="true" object="true" symbol="Fonts"/>
-        <entry field="true" id="52" symbol="bigOutlineFont"/>
+        <entry field="true" id="60" symbol="bigOutlineFont"/>
         <entry id="10" module="true" symbol="globals/Fonts"/>
         <entry id="8388648" module="true" symbol="WatchUi"/>
         <entry id="3" module="true" symbol="globals/Rez"/>
-        <entry field="true" id="17" symbol="textWidthHour"/>
-        <entry field="true" id="36" symbol="MinutesColorTitle"/>
+        <entry field="true" id="19" symbol="textWidthHour"/>
+        <entry field="true" id="44" symbol="MinutesColorTitle"/>
         <entry id="8389124" method="true" symbol="onUpdate"/>
         <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
         <entry field="true" id="8389065" symbol="locY"/>
         <entry field="true" id="8389064" symbol="locX"/>
+        <entry field="true" id="29" symbol="hourLocY"/>
+        <entry field="true" id="28" symbol="hourLocX"/>
         <entry id="8388771" module="true" object="true" symbol="Drawables"/>
         <entry id="8389348" symbol="font"/>
-        <entry id="27" module="true" symbol="Menus"/>
+        <entry id="35" module="true" symbol="Menus"/>
         <entry id="8389275" method="true" symbol="getApp"/>
-        <entry field="true" id="33" symbol="ColorDarkGray"/>
+        <entry field="true" id="41" symbol="ColorDarkGray"/>
         <entry id="7" module="true" symbol="globals/Rez/Layouts"/>
         <entry id="8389122" method="true" symbol="onLayout"/>
-        <entry field="true" id="50" symbol="DisplaySecondsTitle"/>
+        <entry field="true" id="58" symbol="DisplaySecondsTitle"/>
         <entry id="8389376" method="true" symbol="onEnterSleep"/>
         <entry field="true" id="8389063" symbol="identifier"/>
-        <entry field="true" id="19" symbol="textHeight"/>
+        <entry field="true" id="21" symbol="textHeight"/>
         <entry id="8389349" symbol="justification"/>
-        <entry field="true" id="45" symbol="ColorWhite"/>
-        <entry field="true" id="34" symbol="ColorDarkBlue"/>
+        <entry field="true" id="53" symbol="ColorWhite"/>
+        <entry field="true" id="42" symbol="ColorDarkBlue"/>
         <entry id="8" module="true" symbol="globals/Rez/JsonData"/>
-        <entry field="true" id="38" symbol="ColorBlack"/>
+        <entry field="true" id="46" symbol="ColorBlack"/>
         <entry id="4" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="12" module="true" symbol="globals/DateText"/>
         <entry id="8389377" method="true" symbol="onExitSleep"/>
         <entry id="8388644" module="true" symbol="System"/>
+        <entry field="true" id="26" symbol="hourString"/>
         <entry id="8388645" module="true" symbol="Time"/>
         <entry id="8388769" module="true" object="true" symbol="Rez"/>
-        <entry field="true" id="49" symbol="AccentColorTitle"/>
+        <entry field="true" id="27" symbol="minutesString"/>
+        <entry field="true" id="8388933" method="true" symbol="moment"/>
+        <entry field="true" id="57" symbol="AccentColorTitle"/>
         <entry id="8388640" module="true" symbol="Lang"/>
         <entry id="8390088" module="true" object="true" symbol="JsonData"/>
         <entry id="8389068" method="true" symbol="draw"/>
-        <entry field="true" id="28" symbol="LauncherIcon"/>
+        <entry field="true" id="36" symbol="LauncherIcon"/>
         <entry id="8388610" symbol="statics"/>
         <entry id="8389123" method="true" symbol="onShow"/>
-        <entry field="true" id="51" symbol="bigFilledFont"/>
-        <entry id="25" method="true" symbol="setSettings"/>
+        <entry field="true" id="59" symbol="bigFilledFont"/>
+        <entry id="33" method="true" symbol="setSettings"/>
         <entry id="8389350" module="true" symbol="globals"/>
-        <entry id="14" object="true" symbol="Forerunner55WatchFaceApp"/>
+        <entry id="16" object="true" symbol="Forerunner55WatchFaceApp"/>
         <entry id="8388770" module="true" object="true" symbol="Strings"/>
         <entry id="8390146" module="true" object="true" symbol="Background"/>
         <entry id="8388702" method="true" symbol="initialize"/>
         <entry id="8389279" method="true" symbol="onStart"/>
-        <entry field="true" id="41" symbol="HourColorTitle"/>
+        <entry field="true" id="49" symbol="HourColorTitle"/>
         <entry id="11" module="true" symbol="globals/SecondsRing"/>
         <entry id="8388641" module="true" symbol="Math"/>
-        <entry field="true" id="31" symbol="ColorLightGray"/>
+        <entry field="true" id="39" symbol="ColorLightGray"/>
         <entry id="8389280" method="true" symbol="getInitialView"/>
         <entry id="8389281" method="true" symbol="onStop"/>
         <entry id="8389347" symbol="color"/>
-        <entry field="true" id="43" symbol="ColorPink"/>
-        <entry field="true" id="20" symbol="hourColor"/>
-        <entry field="true" id="21" symbol="minutesColor"/>
-        <entry field="true" id="53" symbol="displaySeconds"/>
-        <entry field="true" id="37" symbol="ImperialTitle"/>
-        <entry field="true" id="22" symbol="hourFilled"/>
-        <entry field="true" id="23" symbol="minutesFilled"/>
-        <entry id="26" module="true" symbol="Layouts"/>
-        <entry field="true" id="46" symbol="HourFilledTitle"/>
-        <entry field="true" id="48" symbol="ColorLightBlue"/>
+        <entry field="true" id="51" symbol="ColorPink"/>
+        <entry field="true" id="22" symbol="hourColor"/>
+        <entry field="true" id="23" symbol="minutesColor"/>
+        <entry field="true" id="61" symbol="displaySeconds"/>
+        <entry field="true" id="45" symbol="ImperialTitle"/>
+        <entry field="true" id="24" symbol="hourFilled"/>
+        <entry field="true" id="25" symbol="minutesFilled"/>
+        <entry id="34" module="true" symbol="Layouts"/>
+        <entry field="true" id="54" symbol="HourFilledTitle"/>
+        <entry field="true" id="56" symbol="ColorLightBlue"/>
+        <entry field="true" id="66" symbol="textWidth"/>
         <entry id="6" module="true" symbol="globals/Rez/Fonts"/>
         <entry id="8389125" method="true" symbol="onHide"/>
-        <entry field="true" id="35" symbol="MinutesFilledTitle"/>
+        <entry field="true" id="43" symbol="MinutesFilledTitle"/>
         <entry id="8388635" module="true" symbol="Application"/>
     </symbolTable>
     <localVars>
-        <entry endPc="268436213" name="minutesLocY" stackId="8" startPc="268435468"/>
-        <entry endPc="268436213" name="minutesLocX" stackId="7" startPc="268435468"/>
-        <entry endPc="268436213" name="hourString" stackId="3" startPc="268435468"/>
-        <entry endPc="268436213" name="hourLocY" stackId="6" startPc="268435468"/>
-        <entry endPc="268436213" name="hourLocX" stackId="5" startPc="268435468"/>
-        <entry endPc="268436213" name="moment" stackId="2" startPc="268435468"/>
-        <entry endPc="268436213" name="minutesString" stackId="4" startPc="268435468"/>
-        <entry arg="true" endPc="268436214" name="dc" stackId="1" startPc="268435456"/>
-        <entry arg="true" endPc="268436513" name="dc" stackId="1" startPc="268436472"/>
-        <entry arg="true" endPc="268436611" name="dc" stackId="1" startPc="268436519"/>
-        <entry arg="true" endPc="268436702" name="state" stackId="1" startPc="268436698"/>
-        <entry arg="true" endPc="268436707" name="state" stackId="1" startPc="268436703"/>
-        <entry endPc="268437106" name="radius" stackId="4" startPc="268436848"/>
-        <entry endPc="268437106" name="centerY" stackId="3" startPc="268436848"/>
-        <entry endPc="268437106" name="moment" stackId="5" startPc="268436848"/>
-        <entry endPc="268437106" name="centerX" stackId="2" startPc="268436848"/>
-        <entry endPc="268437106" name="angle" stackId="7" startPc="268436848"/>
-        <entry endPc="268437106" name="seconds" stackId="6" startPc="268436848"/>
-        <entry arg="true" endPc="268437107" name="dc" stackId="1" startPc="268436836"/>
-        <entry endPc="268437202" name="dictionary" stackId="1" startPc="268437162"/>
-        <entry arg="true" endPc="268437269" name="dc" stackId="1" startPc="268437204"/>
-        <entry endPc="268437513" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268437282"/>
-        <entry endPc="268437513" name="rez_cmp_local_custom_drawable_11524048091009022284" stackId="2" startPc="268437282"/>
-        <entry arg="true" endPc="268437514" name="dc" stackId="1" startPc="268437270"/>
+        <entry arg="true" endPc="268436397" name="dc" stackId="1" startPc="268435456"/>
+        <entry arg="true" endPc="268436696" name="dc" stackId="1" startPc="268436655"/>
+        <entry arg="true" endPc="268436814" name="dc" stackId="1" startPc="268436702"/>
+        <entry arg="true" endPc="268437298" name="dc" stackId="1" startPc="268436878"/>
+        <entry arg="true" endPc="268437326" name="state" stackId="1" startPc="268437322"/>
+        <entry arg="true" endPc="268437331" name="state" stackId="1" startPc="268437327"/>
+        <entry endPc="268437730" name="radius" stackId="4" startPc="268437472"/>
+        <entry endPc="268437730" name="centerY" stackId="3" startPc="268437472"/>
+        <entry endPc="268437730" name="moment" stackId="5" startPc="268437472"/>
+        <entry endPc="268437730" name="centerX" stackId="2" startPc="268437472"/>
+        <entry endPc="268437730" name="angle" stackId="7" startPc="268437472"/>
+        <entry endPc="268437730" name="seconds" stackId="6" startPc="268437472"/>
+        <entry arg="true" endPc="268437731" name="dc" stackId="1" startPc="268437460"/>
+        <entry endPc="268437826" name="dictionary" stackId="1" startPc="268437786"/>
+        <entry arg="true" endPc="268437893" name="dc" stackId="1" startPc="268437828"/>
+        <entry endPc="268438119" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268437906"/>
+        <entry endPc="268438119" name="rez_cmp_local_custom_drawable_99175219911316172821" stackId="2" startPc="268437906"/>
+        <entry arg="true" endPc="268438120" name="dc" stackId="1" startPc="268437894"/>
     </localVars>
     <annotations>
         <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
@@ -240,20 +260,21 @@
         <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="DisplaySecondsTitle"/>
     </annotations>
     <dataEntryOffsetMappings>
-        <dataEntry label="globals" offset="111" parentId="" symbolId="globals" type="module"/>
-        <dataEntry label="globals/Background" offset="214" parentId="globals" symbolId="Background" type="class"/>
-        <dataEntry label="globals/TimeText" offset="269" parentId="globals" symbolId="TimeText" type="module"/>
-        <dataEntry label="globals/Forerunner55WatchFaceView" offset="380" parentId="globals" symbolId="Forerunner55WatchFaceView" type="class"/>
-        <dataEntry label="globals/Rez" offset="475" parentId="globals" symbolId="Rez" type="module"/>
-        <dataEntry label="globals/Rez/Drawables" offset="554" parentId="Rez" symbolId="Drawables" type="module"/>
-        <dataEntry label="globals/Rez/Menus" offset="593" parentId="Rez" symbolId="Menus" type="module"/>
-        <dataEntry label="globals/Rez/Fonts" offset="624" parentId="Rez" symbolId="Fonts" type="module"/>
-        <dataEntry label="globals/Rez/Layouts" offset="671" parentId="Rez" symbolId="Layouts" type="module"/>
-        <dataEntry label="globals/Rez/JsonData" offset="710" parentId="Rez" symbolId="JsonData" type="module"/>
-        <dataEntry label="globals/Rez/Strings" offset="741" parentId="Rez" symbolId="Strings" type="module"/>
-        <dataEntry label="globals/Fonts" offset="932" parentId="globals" symbolId="Fonts" type="module"/>
-        <dataEntry label="globals/SecondsRing" offset="979" parentId="globals" symbolId="SecondsRing" type="module"/>
-        <dataEntry label="globals/Forerunner55WatchFaceApp" offset="1042" parentId="globals" symbolId="Forerunner55WatchFaceApp" type="class"/>
+        <dataEntry label="globals" offset="119" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/Background" offset="230" parentId="globals" symbolId="Background" type="class"/>
+        <dataEntry label="globals/TimeText" offset="285" parentId="globals" symbolId="TimeText" type="module"/>
+        <dataEntry label="globals/Forerunner55WatchFaceView" offset="452" parentId="globals" symbolId="Forerunner55WatchFaceView" type="class"/>
+        <dataEntry label="globals/Rez" offset="547" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="626" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="665" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="696" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="743" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="782" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="813" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/Fonts" offset="1004" parentId="globals" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/SecondsRing" offset="1051" parentId="globals" symbolId="SecondsRing" type="module"/>
+        <dataEntry label="globals/Forerunner55WatchFaceApp" offset="1114" parentId="globals" symbolId="Forerunner55WatchFaceApp" type="class"/>
+        <dataEntry label="globals/DateText" offset="1193" parentId="globals" symbolId="DateText" type="module"/>
     </dataEntryOffsetMappings>
     <functions>
         <functionEntry accessMode="public" name="drawTime" parent="TimeText">
@@ -284,6 +305,10 @@
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" name="onEnterSleep" parent="Forerunner55WatchFaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawDate" parent="DateText">
+            <param id="dc"/>
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" name="initialize" parent="Forerunner55WatchFaceApp">

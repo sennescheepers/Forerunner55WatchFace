@@ -22,17 +22,26 @@ module TimeText {
 	var hourFilled;
 	var minutesFilled;
 	
+	var moment;
+	var hourString;
+	var minutesString;
+	
+	var hourLocX;
+	var hourLocY;
+	var minutesLocX;
+	var minutesLocY;
+	
 	function drawTime(dc) {
 	// Get the time information
-		var moment = Gregorian.info(Time.now(), Time.FORMAT_LONG);
-		var hourString;
+		moment = Gregorian.info(Time.now(), Time.FORMAT_LONG);
+		hourString;
 		if (System.getDeviceSettings().is24Hour && !use12Hour) {
 			hourString = moment.hour.format("%02d");
 		} else {
 			hourString = (moment.hour > 12) ? moment.hour % 12 : moment.hour;
 			hourString = hourString.format("%02d");
 		}
-		var minutesString = moment.min.format("%02d");
+		minutesString = moment.min.format("%02d");
 		
 		// Getting text widths and heights
 		textWidthHour = dc.getTextWidthInPixels(hourString, Fonts.bigFilledFont);
@@ -41,10 +50,10 @@ module TimeText {
 		textHeight = dc.getFontHeight(Fonts.bigFilledFont);
 		
 		// Calculating text postions
-		var hourLocX = (dc.getWidth() - textWidthHour) / 2;
-		var hourLocY = dc.getHeight() / 2 - textHeight - 2;
-		var minutesLocX = (dc.getWidth() - textWidthMinutes) / 2;
-		var minutesLocY = dc.getHeight() / 2 + 2;
+		hourLocX = (dc.getWidth() - textWidthHour) / 2;
+		hourLocY = dc.getHeight() / 2 - textHeight - 12;
+		minutesLocX = (dc.getWidth() - textWidthMinutes) / 2;
+		minutesLocY = dc.getHeight() / 2 - 6;
 		
 		// Deciding fonts and drawing text
 		if (hourFilled) {
