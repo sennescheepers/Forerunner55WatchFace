@@ -2,6 +2,14 @@
     <iq:application entry="Forerunner55WatchFaceApp" id="eab8f76959b347b8896d87dca50d9498" launcherIcon="@Drawables.LauncherIcon" minApiLevel="1.2.1" name="@Strings.AppName" type="watchface" version="0.0.0">
         <iq:products>
             <iq:product id="fr245"/>
+            <iq:product id="fr245m"/>
+            <iq:product id="fr45"/>
+            <iq:product id="fr55"/>
+            <iq:product id="fr645"/>
+            <iq:product id="fr645m"/>
+            <iq:product id="fr745"/>
+            <iq:product id="fr945"/>
+            <iq:product id="fr945lte"/>
         </iq:products>
         <iq:permissions/>
         <iq:languages/>
