@@ -24,7 +24,7 @@ module BatteryIcon {
 		
 		totalWidth = width + DateText.textWidth + 10;
 		
-		locX = (dc.getWidth() - totalWidth) / 2;
+		locX = (dc.getWidth() - DateText.textWidthHour) / 2 + 8;
 		locY = dc.getHeight() / 2 + TimeText.textHeight + 2 + 7;
 		
 		// Draw outline
