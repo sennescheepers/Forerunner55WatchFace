@@ -13,6 +13,8 @@ module BatteryIcon {
 	
 	var dateHeight;
 	
+	var totalWidth;
+	
 	var batteryPercentage;
 	
 	function drawBattery(dc) {
@@ -20,7 +22,9 @@ module BatteryIcon {
 		dateHeight = dc.getFontHeight(dc.FONT_SYSTEM_TINY);
 		height = dateHeight - 14;
 		
-		locX = (dc.getWidth() - TimeText.textWidthHour) / 2;
+		totalWidth = width + DateText.textWidth + 10;
+		
+		locX = (dc.getWidth() - totalWidth) / 2;
 		locY = dc.getHeight() / 2 + TimeText.textHeight + 2 + 7;
 		
 		// Draw outline
