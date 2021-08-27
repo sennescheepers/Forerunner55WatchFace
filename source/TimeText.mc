@@ -4,8 +4,6 @@ using Toybox.WatchUi;
 using Toybox.Time.Gregorian;
 using Toybox.Time;
 using Toybox.Lang as Lang;
-using Toybox.ActivityMonitor;
-using Toybox.Math;
 using Toybox.Application;
 
 module TimeText {

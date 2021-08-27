@@ -4,14 +4,14 @@ using Toybox.WatchUi;
 using Toybox.Time.Gregorian;
 using Toybox.Time;
 using Toybox.Lang as Lang;
-using Toybox.ActivityMonitor;
-using Toybox.Math;
 using Toybox.Application;
 
 module SecondsRing {
 
 	var displaySeconds;
 	var lowPower = false;
+	
+	var RING_WIDTH = 3;
 	
 	function drawSeconds(dc) {
 	
@@ -25,8 +25,7 @@ module SecondsRing {
 		
 		if (displaySeconds && !lowPower && (angle != 450 || angle != 90)) {
 			dc.setColor(dc.COLOR_WHITE, dc.COLOR_BLACK);
-			// Was 2 in 0.0.3
-			dc.setPenWidth(3);
+			dc.setPenWidth(RING_WIDTH);
 			dc.drawArc(centerX, centerY, radius - 1, dc.ARC_CLOCKWISE, 90, angle);
 		}		
 

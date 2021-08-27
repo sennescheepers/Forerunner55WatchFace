@@ -4,8 +4,6 @@ using Toybox.WatchUi;
 using Toybox.Time.Gregorian;
 using Toybox.Time;
 using Toybox.Lang as Lang;
-using Toybox.ActivityMonitor;
-using Toybox.Math;
 using Toybox.Application;
 
 module DateText {
@@ -33,8 +31,8 @@ module DateText {
 		textWidthHour = dc.getTextWidthInPixels(date.hour.format("%02d"), Fonts.bigFilledFont);
 		
 		locX = (dc.getWidth() + textWidthHour) / 2 - textWidth - 5;
-		locY = dc.getHeight() / 2 + textHeightHour - 2;
-		
+		locY = dc.getHeight() / 2 + textHeightHour + 2;
+
 		dc.setColor(dc.COLOR_WHITE, dc.COLOR_BLACK);
 		dc.drawText(locX, locY, dc.FONT_SYSTEM_TINY, dateString, Graphics.TEXT_JUSTIFY_LEFT);
 	
