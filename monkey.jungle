@@ -1,1 +1,5 @@
 project.manifest = manifest.xml
+
+base.sourcePath = source
+
+round-208x208.resourcePath = $(base.resourcePath);resources-round-208x208

@@ -1,12 +1,12 @@
 <settings>
 
-	<setting propertyKey="@Properties.Use12Hour" title="@Strings.Use12HourTitle">
+	<!-- <setting propertyKey="@Properties.Use12Hour" title="@Strings.Use12HourTitle">
 		<settingConfig type="boolean"/>
 	</setting>
 	
 	<setting propertyKey="@Properties.Imperial" title="@Strings.ImperialTitle">
 		<settingConfig type="boolean"/>
-	</setting>
+	</setting> -->
 
     <setting propertyKey="@Properties.HourColor" title="@Strings.HourColorTitle">
         <settingConfig type="list">
@@ -46,7 +46,7 @@
     	<settingConfig type="boolean"/>
     </setting>
     
-    <setting propertyKey="@Properties.AccentColor" title="@Strings.AccentColorTitle">
+    <!-- <setting propertyKey="@Properties.AccentColor" title="@Strings.AccentColorTitle">
         <settingConfig type="list">
             <listEntry value="0x00FF00">@Strings.ColorGreen</listEntry>
             <listEntry value="0xFF0000">@Strings.ColorRed</listEntry>
@@ -57,6 +57,6 @@
             <listEntry value="#e029e3">@Strings.ColorPink</listEntry>
             <listEntry value="#7329e3">@Strings.ColorPurple</listEntry>
         </settingConfig>
-    </setting>
+    </setting>  -->
     
 </settings>

@@ -33,7 +33,7 @@ module TimeText {
 	// Get the time information
 		moment = Gregorian.info(Time.now(), Time.FORMAT_LONG);
 		hourString;
-		if (System.getDeviceSettings().is24Hour && !use12Hour) {
+		if (System.getDeviceSettings().is24Hour /* && !use12Hour */) {
 			hourString = moment.hour.format("%02d");
 		} else {
 			hourString = (moment.hour > 12) ? moment.hour % 12 : moment.hour;
@@ -78,7 +78,7 @@ module TimeText {
 		minutesColor = Application.getApp().getProperty("MinutesColor");
 		hourFilled = Application.getApp().getProperty("HourFilled");
 		minutesFilled = Application.getApp().getProperty("MinutesFilled");
-		use12Hour = Application.getApp().getProperty("Use12Hour");
+		//use12Hour = Application.getApp().getProperty("Use12Hour");
 	
 	}
 	
