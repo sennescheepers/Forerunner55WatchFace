@@ -26,6 +26,10 @@ module StatusIcons {
 		iconsToDraw = new [4];
 		numberOfIcons = 0;
 		totalWidth = 0;
+		
+		if (dc.getHeight() < 240) {
+			locY = 15;
+		}
 	
 		// Check which icons to display
 		settings = System.getDeviceSettings();
