@@ -45,6 +45,9 @@ class Forerunner55WatchFaceView extends WatchUi.WatchFace {
         
         // Draw battery icon
         BatteryIcon.drawBattery(dc);
+        
+        // Draw status icons
+        StatusIcons.drawIcons(dc);
     }
 
     // Called when this View is removed from the screen. Save the
