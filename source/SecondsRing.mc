@@ -26,6 +26,9 @@ module SecondsRing {
 		if (displaySeconds && !lowPower && (angle != 450 || angle != 90)) {
 			dc.setColor(dc.COLOR_WHITE, dc.COLOR_BLACK);
 			dc.setPenWidth(RING_WIDTH);
+			if (dc has :setAntiAlias) {
+				dc.setAntiAlias(true);
+			}
 			dc.drawArc(centerX, centerY, radius - 1, dc.ARC_CLOCKWISE, 90, angle);
 		}		
 
