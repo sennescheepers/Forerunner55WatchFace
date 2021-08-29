@@ -251,7 +251,7 @@
         <entry endPc="268438352" name="dictionary" stackId="1" startPc="268438312"/>
         <entry arg="true" endPc="268438419" name="dc" stackId="1" startPc="268438354"/>
         <entry endPc="268438645" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268438432"/>
-        <entry endPc="268438645" name="rez_cmp_local_custom_drawable_13397379591889517214" stackId="2" startPc="268438432"/>
+        <entry endPc="268438645" name="rez_cmp_local_custom_drawable_11624702551844740520" stackId="2" startPc="268438432"/>
         <entry arg="true" endPc="268438646" name="dc" stackId="1" startPc="268438420"/>
     </localVars>
     <annotations>
