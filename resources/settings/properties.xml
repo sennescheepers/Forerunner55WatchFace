@@ -1,7 +1,6 @@
 <properties>
 
-	<property id="Use12Hour" type="boolean">false</property> <!-- false -->
-	<property id="Imperial" type="boolean">false</property> <!-- false -->
+	<property id="AppVersion" type="string">1.1.0</property> 
 
     <property id="HourColor" type="number">0xFFFFFF</property> <!-- 0xFFFFFF -->
 	<property id="MinutesColor" type="number">0xFFFFFF</property> <!-- 0xFFFFFF -->
@@ -10,5 +9,7 @@
 	<property id="DisplaySeconds" type="boolean">true</property> <!-- true -->
 	
 	<property id="AccentColor" type="number">0x00FF00</property> <!-- 0x00FF00 -->
+	
+	<property id="Donation" type="string">https://paypal.me/sennescheepers</property>
 	
 </properties>
