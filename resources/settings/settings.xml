@@ -47,6 +47,7 @@
             <listEntry value="2">@Strings.StepsTitle</listEntry>
             <listEntry value="3">@Strings.FloorsTitle</listEntry>
             <listEntry value="4">@Strings.CaloriesTitle</listEntry>
+            <listEntry value="5">@Strings.DistanceTitle</listEntry>
         </settingConfig>
     </setting>
     
@@ -57,6 +58,7 @@
             <listEntry value="2">@Strings.StepsTitle</listEntry>
             <listEntry value="3">@Strings.FloorsTitle</listEntry>
             <listEntry value="4">@Strings.CaloriesTitle</listEntry>
+            <listEntry value="5">@Strings.DistanceTitle</listEntry>
         </settingConfig>
     </setting>
     

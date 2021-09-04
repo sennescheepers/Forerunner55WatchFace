@@ -29,8 +29,9 @@ class Forerunner55WatchFaceApp extends Application.AppBase {
     	
     	TimeText.setSettings();
     	SecondsRing.setSettings();
+    	DataFields.setSettings();
     	
-    	view.setSettings();
+    	// view.setSettings();
     	
         WatchUi.requestUpdate();
     }
