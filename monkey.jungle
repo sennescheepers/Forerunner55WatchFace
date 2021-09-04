@@ -2,4 +2,5 @@ project.manifest = manifest.xml
 
 base.sourcePath = source
 
+# Smaller device uses smaller time font
 round-208x208.resourcePath = $(base.resourcePath);resources-round-208x208

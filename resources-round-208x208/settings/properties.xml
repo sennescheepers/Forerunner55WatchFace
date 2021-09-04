@@ -1,0 +1,7 @@
+<properties>
+
+	<!-- Screen too small, default to 0 -->
+	<property id="LeftDataField" type="number">0</property>
+	<property id="RightDataField" type="number">0</property>
+
+</properties>

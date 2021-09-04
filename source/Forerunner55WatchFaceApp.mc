@@ -4,6 +4,8 @@ import Toybox.WatchUi;
 
 class Forerunner55WatchFaceApp extends Application.AppBase {
 
+	var view;
+
     function initialize() {
         AppBase.initialize();
     }
@@ -18,7 +20,8 @@ class Forerunner55WatchFaceApp extends Application.AppBase {
 
     // Return the initial view of your application here
     function getInitialView() as Array<Views or InputDelegates>? {
-        return [ new Forerunner55WatchFaceView() ] as Array<Views or InputDelegates>;
+    	view = new Forerunner55WatchFaceView();
+        return [ view ] as Array<Views or InputDelegates>;
     }
 
     // New app settings have been received so trigger a UI update
@@ -26,6 +29,8 @@ class Forerunner55WatchFaceApp extends Application.AppBase {
     	
     	TimeText.setSettings();
     	SecondsRing.setSettings();
+    	
+    	view.setSettings();
     	
         WatchUi.requestUpdate();
     }

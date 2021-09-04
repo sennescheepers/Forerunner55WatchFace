@@ -5,9 +5,14 @@ import Toybox.System;
 import Toybox.WatchUi;
 
 class Forerunner55WatchFaceView extends WatchUi.WatchFace {
+        
+    var leftDataField;
+    var rightDataField;
 
     function initialize() {
         WatchFace.initialize();
+        
+        setSettings();
         
         // Setting up the settings variables here for effeciency
         TimeText.setSettings();
@@ -48,6 +53,32 @@ class Forerunner55WatchFaceView extends WatchUi.WatchFace {
         
         // Draw status icons
         StatusIcons.drawIcons(dc);
+        
+        // Display data fields
+        // 0: Empty
+        // 1: HR
+      	// 2: Steps
+      	// 3: Floors
+      	if (leftDataField == 1) {
+      		HRText.drawHR(dc, true);
+      	} else if (leftDataField == 2) {
+      		StepsText.drawSteps(dc, true);
+      	} else if (leftDataField == 3) {
+      		FloorsText.drawFloors(dc, true);
+      	} else if (leftDataField == 4) {
+      		CaloriesText.drawCalories(dc, true);
+      	}
+      	
+      	if (rightDataField == 1) {
+      		HRText.drawHR(dc, false);
+      	} else if (rightDataField == 2) {
+      		StepsText.drawSteps(dc, false);
+      	} else if (rightDataField == 3) {
+      		FloorsText.drawFloors(dc, false);
+      	} else if (rightDataField == 4) {
+      		CaloriesText.drawCalories(dc, false);
+      	}
+      	
     }
 
     // Called when this View is removed from the screen. Save the
@@ -65,6 +96,11 @@ class Forerunner55WatchFaceView extends WatchUi.WatchFace {
     // Terminate any active timers and prepare for slow updates.
     function onEnterSleep() {
     	SecondsRing.lowPower = true;
+    }
+    
+    function setSettings() {
+    	leftDataField = Application.getApp().getProperty("LeftDataField");
+    	rightDataField = Application.getApp().getProperty("RightDataField");
     }
 
 }
