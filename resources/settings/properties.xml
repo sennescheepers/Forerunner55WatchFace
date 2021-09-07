@@ -1,14 +1,17 @@
 <properties>
 
-	<property id="AppVersion" type="string">1.1.1</property> 
+	<property id="AppVersion" type="string">1.2.0</property> 
 
-    <property id="HourColor" type="number">0xFFFFFF</property> <!-- 0xFFFFFF -->
+  <property id="HourColor" type="number">0xFFFFFF</property> <!-- 0xFFFFFF -->
 	<property id="MinutesColor" type="number">0xFFFFFF</property> <!-- 0xFFFFFF -->
 	<property id="HourFilled" type="boolean">true</property> <!-- true -->
 	<property id="MinutesFilled" type="boolean">false</property> <!-- false -->
 	<property id="DisplaySeconds" type="boolean">true</property> <!-- true -->
 	
-	<property id="AccentColor" type="number">0x00FF00</property> <!-- 0x00FF00 -->
+	<property id="LeftDataField" type="number">0</property> <!-- 0 -->
+	<property id="RightDataField" type="number">0</property> <!-- 0 -->
+	
+	<property id="AccentColor" type="number">0xFFFFFF</property> <!-- 0x00FF00 -->
 	
 	<property id="Donation" type="string">https://paypal.me/sennescheepers</property>
 	

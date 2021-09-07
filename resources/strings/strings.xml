@@ -23,6 +23,16 @@
     <string id="ColorPink">Pink</string>
     <string id="ColorPurple">Purple</string>
     
+    <string id="LeftDataFieldTitle">Left data field</string>
+    <string id="RightDataFieldTitle">Right data field</string>
+    
+    <string id="EmptyTitle">Empty</string>
+    <string id="HRTitle">Heart rate</string>
+    <string id="StepsTitle">Steps</string>
+    <string id="FloorsTitle">Floors climbed</string>
+    <string id="CaloriesTitle">Calories burned</string>
+    <string id="DistanceTitle">Distance</string>
+    
     <string id="AccentColorTitle">Accent color</string>
     
     <string id="DonationTitle">If you like it, you can support my work with a small donation</string>

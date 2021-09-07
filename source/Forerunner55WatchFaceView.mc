@@ -12,6 +12,7 @@ class Forerunner55WatchFaceView extends WatchUi.WatchFace {
         // Setting up the settings variables here for effeciency
         TimeText.setSettings();
         SecondsRing.setSettings();
+        DataFields.setSettings();
         
     }
 
@@ -48,6 +49,10 @@ class Forerunner55WatchFaceView extends WatchUi.WatchFace {
         
         // Draw status icons
         StatusIcons.drawIcons(dc);
+        
+        // Draw the datafields
+        DataFields.drawDataFields(dc);
+      	
     }
 
     // Called when this View is removed from the screen. Save the

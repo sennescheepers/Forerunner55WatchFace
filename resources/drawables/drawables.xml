@@ -4,4 +4,8 @@
     <bitmap id="NotificationIcon" filename="notification_icon.png" />
     <bitmap id="DoNotDisturbIcon" filename="dnd_icon.png" />
     <bitmap id="AlarmIcon" filename="alarm_icon.png" />
+    <bitmap id="StepsIcon" filename="steps_icon.png" />
+    <bitmap id="HeartIcon" filename="heart_icon.png" />
+    <bitmap id="StairsIcon" filename="stairs_icon.png" />
+    <bitmap id="FireIcon" filename="fire_icon.png" />
 </drawables>
