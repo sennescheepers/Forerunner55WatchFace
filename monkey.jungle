@@ -5,3 +5,6 @@ base.sourcePath = source
 # Smaller devices use smaller time font and no data fields
 round-208x208.resourcePath = $(round-208x208.resourcePath);resources-small-time;resources-no-datafields
 round-218x218.resourcePath = $(round-218x218.resourcePath);resources-small-time;resources-no-datafields
+
+round-208x208.excludeAnnotations = $(round-208x208.excludeAnnotations);buffered
+round-218x218.excludeAnnotations = $(round-218x218.excludeAnnotations);buffered
