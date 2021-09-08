@@ -8,8 +8,8 @@
 	<property id="MinutesFilled" type="boolean">false</property> <!-- false -->
 	<property id="DisplaySeconds" type="boolean">true</property> <!-- true -->
 	
-	<property id="LeftDataField" type="number">0</property> <!-- 0 -->
-	<property id="RightDataField" type="number">0</property> <!-- 0 -->
+	<!-- <property id="LeftDataField" type="number">0</property> --> <!-- 0 -->
+	<!-- <property id="RightDataField" type="number">0</property> --> <!-- 0 -->
 	
 	<property id="AccentColor" type="number">0xFFFFFF</property> <!-- 0x00FF00 -->
 	
