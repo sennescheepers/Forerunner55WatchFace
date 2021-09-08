@@ -1,6 +1,6 @@
 <properties>
 
-	<property id="AppVersion" type="string">1.1.0</property> 
+	<property id="AppVersion" type="string">1.3.0</property> 
 
     <property id="HourColor" type="number">0xFFFFFF</property> <!-- 0xFFFFFF -->
 	<property id="MinutesColor" type="number">0xFFFFFF</property> <!-- 0xFFFFFF -->
