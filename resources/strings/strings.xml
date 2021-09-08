@@ -32,6 +32,7 @@
     <string id="FloorsTitle">Floors climbed</string>
     <string id="CaloriesTitle">Calories burned</string>
     <string id="DistanceTitle">Distance</string>
+    <string id="BatteryTitle">Battery percentage</string>
     
     <string id="AccentColorTitle">Accent color</string>
     

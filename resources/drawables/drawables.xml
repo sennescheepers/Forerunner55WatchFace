@@ -8,4 +8,5 @@
     <bitmap id="HeartIcon" filename="heart_icon.png" />
     <bitmap id="StairsIcon" filename="stairs_icon.png" />
     <bitmap id="FireIcon" filename="fire_icon.png" />
+    <bitmap id="BatteryIcon" filename="battery_icon.png" />
 </drawables>
