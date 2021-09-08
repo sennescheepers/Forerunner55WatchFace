@@ -40,7 +40,7 @@
     	<settingConfig type="boolean"/>
     </setting>
     
-     <setting propertyKey="@Properties.LeftDataField" title="@Strings.LeftDataFieldTitle">
+     <!-- <setting propertyKey="@Properties.LeftDataField" title="@Strings.LeftDataFieldTitle">
         <settingConfig type="list">
             <listEntry value="0">@Strings.EmptyTitle</listEntry>
             <listEntry value="1">@Strings.HRTitle</listEntry>
@@ -60,7 +60,7 @@
             <listEntry value="4">@Strings.CaloriesTitle</listEntry>
             <listEntry value="5">@Strings.DistanceTitle</listEntry>
         </settingConfig>
-    </setting>
+    </setting> -->
     
     <setting propertyKey="@Properties.Donation" title="@Strings.DonationTitle">
     	<settingConfig type="alphaNumeric" readonly="true"/>

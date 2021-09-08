@@ -1,0 +1,27 @@
+<settings>
+
+	<setting propertyKey="@Properties.LeftDataField" title="@Strings.LeftDataFieldTitle">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.EmptyTitle</listEntry>
+            <listEntry value="1">@Strings.HRTitle</listEntry>
+            <listEntry value="2">@Strings.StepsTitle</listEntry>
+            <listEntry value="3">@Strings.FloorsTitle</listEntry>
+            <listEntry value="4">@Strings.CaloriesTitle</listEntry>
+            <listEntry value="5">@Strings.DistanceTitle</listEntry>
+            <listEntry value="6">@Strings.BatteryTitle</listEntry>
+        </settingConfig>
+    </setting>
+    
+    <setting propertyKey="@Properties.RightDataField" title="@Strings.RightDataFieldTitle" >
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.EmptyTitle</listEntry>
+            <listEntry value="1">@Strings.HRTitle</listEntry>
+            <listEntry value="2">@Strings.StepsTitle</listEntry>
+            <listEntry value="3">@Strings.FloorsTitle</listEntry>
+            <listEntry value="4">@Strings.CaloriesTitle</listEntry>
+            <listEntry value="5">@Strings.DistanceTitle</listEntry>
+            <listEntry value="6">@Strings.BatteryTitle</listEntry>
+        </settingConfig>
+	</setting>
+
+</settings>

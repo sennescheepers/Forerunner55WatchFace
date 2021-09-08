@@ -1,0 +1,6 @@
+<properties>
+
+	<property id="LeftDataField" type="number">0</property> <!-- 0 -->
+	<property id="RightDataField" type="number">0</property> <!-- 0 -->
+
+</properties>

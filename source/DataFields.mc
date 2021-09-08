@@ -40,6 +40,8 @@ module DataFields {
       	// 3: Floors
       	// 4: Calories
       	// 5: Distance
+      	// 6: Battery percentage
+      	
       	if (leftDataField == 1) {
       		drawHR(dc, true);
       	} else if (leftDataField == 2) {
@@ -50,6 +52,8 @@ module DataFields {
       		drawCalories(dc, true);
       	} else if (leftDataField == 5) {
       		drawDistance(dc, true);
+      	} else if (leftDataField == 6) {
+      		drawBattery(dc, true);
       	}
       	
       	if (rightDataField == 1) {
@@ -62,6 +66,8 @@ module DataFields {
       		drawCalories(dc, false);
       	} else if (rightDataField == 5) {
       		drawDistance(dc, false);
+      	} else if (rightDataField == 6) {
+      		drawBattery(dc, false);
       	}
 	
 	}
@@ -268,6 +274,33 @@ module DataFields {
 		// Draw icon and text
 		dc.drawBitmap(iconLocX, iconLocY, WatchUi.loadResource(Rez.Drawables.StepsIcon));
 		dc.drawText(locX, locY, dc.FONT_SYSTEM_XTINY, distanceString, dc.TEXT_JUSTIFY_LEFT);
+	
+	}
+	
+	function drawBattery(dc, left) {
+	
+		// Get the data
+		var battery = System.getSystemStats().battery.format("%.0f");
+		battery = Lang.format("$1$$2$", [battery, "%"]);
+		
+		// Calculate position
+		width = dc.getWidth();
+		textWidth = dc.getTextWidthInPixels(battery, dc.FONT_SYSTEM_XTINY);
+		
+		iconLocX = width / 6 - ICON_WIDTH / 2;
+		iconLocY = width / 2 - ICON_WIDTH;
+		
+		locX = width / 6 - textWidth / 2;
+		locY = width / 2;
+		
+		if (!left) {
+			iconLocX += width / 6 * 4;
+			locX += width / 6 * 4;
+		}
+		
+		// Draw icon and text
+		dc.drawBitmap(iconLocX, iconLocY, WatchUi.loadResource(Rez.Drawables.BatteryIcon));
+		dc.drawText(locX, locY, dc.FONT_SYSTEM_XTINY, battery, dc.TEXT_JUSTIFY_LEFT);
 	
 	}
 	
