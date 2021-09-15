@@ -30,6 +30,7 @@ class Forerunner55WatchFaceApp extends Application.AppBase {
     	TimeText.setSettings();
     	SecondsRing.setSettings();
     	DataFields.setSettings();
+    	BatteryIcon.setSettings();
     	
     	// view.setSettings();
     	

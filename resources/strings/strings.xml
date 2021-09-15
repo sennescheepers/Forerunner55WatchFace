@@ -23,6 +23,8 @@
     <string id="ColorPink">Pink</string>
     <string id="ColorPurple">Purple</string>
     
+    <string id="DisplayBatteryPercentageTitle">Display battery percentage instead of icon</string>
+    
     <string id="LeftDataFieldTitle">Left data field</string>
     <string id="RightDataFieldTitle">Right data field</string>
     
@@ -33,8 +35,6 @@
     <string id="CaloriesTitle">Calories burned</string>
     <string id="DistanceTitle">Distance</string>
     <string id="BatteryTitle">Battery percentage</string>
-    
-    <string id="AccentColorTitle">Accent color</string>
     
     <string id="DonationTitle">If you like it, you can support my work with a small donation</string>
     

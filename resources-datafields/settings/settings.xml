@@ -8,7 +8,7 @@
             <listEntry value="3">@Strings.FloorsTitle</listEntry>
             <listEntry value="4">@Strings.CaloriesTitle</listEntry>
             <listEntry value="5">@Strings.DistanceTitle</listEntry>
-            <listEntry value="6">@Strings.BatteryTitle</listEntry>
+            <!-- <listEntry value="6">@Strings.BatteryTitle</listEntry> -->
         </settingConfig>
     </setting>
     
@@ -20,7 +20,7 @@
             <listEntry value="3">@Strings.FloorsTitle</listEntry>
             <listEntry value="4">@Strings.CaloriesTitle</listEntry>
             <listEntry value="5">@Strings.DistanceTitle</listEntry>
-            <listEntry value="6">@Strings.BatteryTitle</listEntry>
+            <!-- <listEntry value="6">@Strings.BatteryTitle</listEntry> -->
         </settingConfig>
 	</setting>
 
