@@ -40,9 +40,9 @@
     	<settingConfig type="boolean"/>
     </setting>
     
-    <setting propertyKey="@Properties.DisplayBatteryPercentage" title="@Strings.DisplayBatteryPercentageTitle">
+    <!-- <setting propertyKey="@Properties.DisplayBatteryPercentage" title="@Strings.DisplayBatteryPercentageTitle">
     	<settingConfig type="boolean"/>
-    </setting>
+    </setting> -->
     
      <!-- <setting propertyKey="@Properties.LeftDataField" title="@Strings.LeftDataFieldTitle">
         <settingConfig type="list">

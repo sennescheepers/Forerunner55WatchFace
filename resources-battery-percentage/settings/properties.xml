@@ -1,0 +1,5 @@
+<properties>
+	
+	<property id="DisplayBatteryPercentage" type="boolean">false</property> <!-- false -->
+
+</properties>

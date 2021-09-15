@@ -9,3 +9,8 @@ round-218x218.resourcePath = $(round-218x218.resourcePath);resources-small-time
 # Devices bigger than 218x218 have two data fields
 round-240x240.resourcePath = $(round-240x240.resourcePath);resources-datafields
 round-260x260.resourcePath = $(round-260x260.resourcePath);resources-datafields
+
+# Devices bigger then 208x208 can choose to display battery percentage
+round-218x218.resourcePath = $(round-218x218.resourcePath);resources-battery-percentage
+round-240x240.resourcePath = $(round-240x240.resourcePath);resources-battery-percentage
+round-260x260.resourcePath = $(round-260x260.resourcePath);resources-battery-percentage
