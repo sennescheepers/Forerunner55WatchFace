@@ -30,7 +30,7 @@ module DateText {
 		textWidth = dc.getTextWidthInPixels(dateString, ((dc.getWidth() > 208) ? dc.FONT_SYSTEM_TINY : dc.FONT_SYSTEM_XTINY));
 		textWidthHour = dc.getTextWidthInPixels(date.hour.format("%02d"), Fonts.bigFilledFont);
 		
-		locX = (dc.getWidth() + textWidthHour) / 2 - textWidth - 8;
+		locX = (dc.getWidth() - textWidth - BatteryIcon.actualWidth) / 2 + BatteryIcon.actualWidth + 5;
 		locY = dc.getHeight() / 2 + textHeightHour + 2;
 
 		dc.setColor(dc.COLOR_WHITE, dc.COLOR_BLACK);

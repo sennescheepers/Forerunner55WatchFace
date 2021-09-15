@@ -13,6 +13,7 @@ class Forerunner55WatchFaceView extends WatchUi.WatchFace {
         TimeText.setSettings();
         SecondsRing.setSettings();
         DataFields.setSettings();
+        BatteryIcon.setSettings();
         
     }
 

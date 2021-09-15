@@ -1,0 +1,7 @@
+<settings>
+    
+    <setting propertyKey="@Properties.DisplayBatteryPercentage" title="@Strings.DisplayBatteryPercentageTitle">
+    	<settingConfig type="boolean"/>
+    </setting>
+
+</settings>
